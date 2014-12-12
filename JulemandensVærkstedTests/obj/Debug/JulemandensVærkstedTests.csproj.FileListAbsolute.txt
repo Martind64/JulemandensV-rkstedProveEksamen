@@ -1,0 +1,14 @@
+M:\uv\2014e-sodp\prog\JulemandensVærksted\JulemandensVærkstedTests\bin\Debug\JulemandensVærkstedTests.dll
+M:\uv\2014e-sodp\prog\JulemandensVærksted\JulemandensVærkstedTests\bin\Debug\JulemandensVærkstedTests.pdb
+M:\uv\2014e-sodp\prog\JulemandensVærksted\JulemandensVærkstedTests\bin\Debug\JulemandensVærksted.dll
+M:\uv\2014e-sodp\prog\JulemandensVærksted\JulemandensVærkstedTests\bin\Debug\JulemandensVærksted.pdb
+M:\uv\2014e-sodp\prog\JulemandensVærksted\JulemandensVærkstedTests\obj\Debug\JulemandensVærkstedTests.csprojResolveAssemblyReference.cache
+M:\uv\2014e-sodp\prog\JulemandensVærksted\JulemandensVærkstedTests\obj\Debug\JulemandensVærkstedTests.dll
+M:\uv\2014e-sodp\prog\JulemandensVærksted\JulemandensVærkstedTests\obj\Debug\JulemandensVærkstedTests.pdb
+C:\Users\Martin\Documents\Projekter\JulemandensVærksted\JulemandensVærkstedTests\bin\Debug\JulemandensVærkstedTests.dll
+C:\Users\Martin\Documents\Projekter\JulemandensVærksted\JulemandensVærkstedTests\bin\Debug\JulemandensVærkstedTests.pdb
+C:\Users\Martin\Documents\Projekter\JulemandensVærksted\JulemandensVærkstedTests\bin\Debug\JulemandensVærksted.dll
+C:\Users\Martin\Documents\Projekter\JulemandensVærksted\JulemandensVærkstedTests\bin\Debug\JulemandensVærksted.pdb
+C:\Users\Martin\Documents\Projekter\JulemandensVærksted\JulemandensVærkstedTests\obj\Debug\JulemandensVærkstedTests.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Projekter\JulemandensVærksted\JulemandensVærkstedTests\obj\Debug\JulemandensVærkstedTests.dll
+C:\Users\Martin\Documents\Projekter\JulemandensVærksted\JulemandensVærkstedTests\obj\Debug\JulemandensVærkstedTests.pdb
